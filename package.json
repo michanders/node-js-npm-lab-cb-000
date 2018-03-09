@@ -23,11 +23,11 @@
   },
   "homepage": "https://github.com/pletcher/node-js-npm-lab#readme",
   "dependencies": {
-    "lodash": ""
+    "lodash"
   },
   "devDependencies": {
-    "chai": "",
-    "mocha": "",
-    "mocha-multi": ""
+    "chai"
+    "mocha"
+    "mocha-multi"
   }
 }
